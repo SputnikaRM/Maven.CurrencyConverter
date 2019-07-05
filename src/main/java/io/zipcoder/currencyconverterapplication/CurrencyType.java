@@ -32,9 +32,9 @@ public enum CurrencyType {
 //        return null;
 
 
-  return null;
+  return currency.getCurrencyType();
 
 
         }
     }
-}
+
